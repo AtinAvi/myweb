@@ -1,0 +1,1 @@
+#This project aimed to develop my programming skills in html and CSS. Also in order to set goal and attain result i am going to proctice. 
